@@ -1,0 +1,53 @@
+body {
+ background-image: url(./img/img-years.jpg);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+
+.title {
+  display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+color: whitesmoke;
+margin-top: 100px;
+font-size: 50px;
+}
+
+.all-container__content {
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+gap: 20px;
+color: whitesmoke;
+margin-top: 250px;
+
+}
+
+
+.time {
+font-size: 70px;
+font-weight: 900;
+}
+
+
+.time-text {
+  font-size: 30px;
+  font-weight: 900;
+}
+
+.colon {
+display: flex;
+margin-bottom: 40px;
+
+  font-size: 50px;
+  font-weight: 900;
+}
+
